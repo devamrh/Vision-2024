@@ -56,8 +56,3 @@
 **Project Live Link :** [https://devamrh.github.io/Country-Guide-App-JS/](https://devamrh.github.io/Country-Guide-App-JS/)
 
 
-
-
-
-
-
