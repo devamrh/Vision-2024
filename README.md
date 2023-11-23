@@ -46,13 +46,6 @@
 **Project Live Link :** [https://devamrh.github.io/Digital-Clock-JS/](https://devamrh.github.io/Digital-Clock-JS/)
 
 ### 09
-**Project Name :** Customer Review
-**Project Github :** [https://devamrh.github.io/reviews-js/](https://github.com/devamrh/reviews-js)
-**Project Live Link :** [https://devamrh.github.io/review-js/](https://devamrh.github.io/reviews-js/)
-
-
-
-
-
-
-
+**Project Name :** Customer Review  
+**Project Github :** [https://github.com/devamrh/reviews-js](https://github.com/devamrh/reviews-js)  
+**Project Live Link :** [https://devamrh.github.io/reviews-js/](https://devamrh.github.io/reviews-js/)
