@@ -48,7 +48,7 @@
 ### 09
 **Project Name :** Customer Review
 **Project Github :** [https://devamrh.github.io/reviews-js/](https://github.com/devamrh/reviews-js)
-**Project Live Link :** https://devamrh.github.io/reviews-js/
+**Project Live Link :** [https://devamrh.github.io/review-js/]https://devamrh.github.io/reviews-js/
 
 
 
